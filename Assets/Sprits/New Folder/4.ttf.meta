@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7deac99913357cd4e819d24ae68964be
+timeCreated: 1503513885
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Appetite New
+  fontNames:
+  - Appetite New
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
